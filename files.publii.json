@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "cb3fa1158c73ecd77968b47e3079b944"
+    },
+    {
+        "path": "a-comprehensive-guide-to-learn-quran-recitation-effectively-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-comprehensive-guide-to-learn-quran-recitation-effectively-from-home/index.html",
+        "type": "file",
+        "md5": "4f3751deb96d92262164ef86cdce8636"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "e70e7e2c42a4cbde773913586568127d"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "2566034f54394322b59bf54ca7d440a5"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "1e049db9582e774f9fb2eb93abea976d"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "3146dbffc7b8bd579d4fde8cb57d6743"
+    },
+    {
+        "path": "learn-quran-recitation-your-gateway-to-perfect-quran-reading",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-your-gateway-to-perfect-quran-reading/index.html",
+        "type": "file",
+        "md5": "ef517c924fb81436ed5082abc08ab1ba"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/images-1.jfif",
+        "type": "file",
+        "md5": "cd8a0fa36f0c1d289818bdcc8ac4c082"
+    },
+    {
+        "path": "online-quran-recitation-a-meaningful-path-to-perfecting-your-quranic-voice",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-recitation-a-meaningful-path-to-perfecting-your-quranic-voice/index.html",
+        "type": "file",
+        "md5": "ecea1a332a7be1e0b47aca75c9a555c0"
+    },
+    {
+        "path": "online-quran-recitation-elevate-your-recitation-with-structured-digital-learning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-recitation-elevate-your-recitation-with-structured-digital-learning/index.html",
+        "type": "file",
+        "md5": "0a52756ad21165be6bcd039d27f8a5a8"
+    },
+    {
+        "path": "online-quran-recitation-master-the-art-of-reciting-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-recitation-master-the-art-of-reciting-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "a800e740beb0c2316c23d8d3c3f2089b"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "a78c55c3d0eabf3e2170a228b7e0cc44"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "49593cec26a012fc0fefc1528b3a2ad1"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "cf6c7ee3e9c733c0b9ecead033c65d7a"
+    }
+]

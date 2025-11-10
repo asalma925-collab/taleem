@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://taleem.pages.dev/sitemap.xml
